@@ -3,8 +3,7 @@
 **Author:** Skileros98
 
 ## 📘 Overview
-This project implements an FPGA‑based system that reads temperature data from an I2C sensor and displays it on an 8‑digit 7‑segment display.  
-The design runs on the **Nexys A7** board and is fully written in **Verilog**.
+This project implements an FPGA‑based system that reads temperature data from an I2C sensor and displays it on an 8‑digit 7‑segment display. The design runs on the **Nexys A7** board and is fully written in **Verilog**.
 
 ## 🧩 System Components
 - **I2C Master** – communicates with the temperature sensor using a 7‑state FSM
